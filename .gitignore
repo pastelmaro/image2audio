@@ -1,0 +1,17 @@
+venv/
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+output/
+temp/
+upload/
+test/
+
+*.mp4
+*.wav
+*.srt
+*.dll
+
+.env
